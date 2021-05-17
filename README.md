@@ -21,6 +21,8 @@ Whenever I am confronted with a scraping task of this nature, I approach it by t
 **5. How to better extract complex information?**  
 (e.g. assume every ad contains public transportation information, such as "0.5 miles to subway station XY". What does the logic need to look like so that we can store this mix of information directly in the right format: distance = [0.5], transport_type = ["underground"], station = ["name XY"])
 
+&nbsp;
+
 ## Installation
 
 Open your terminal and clone the repository:
