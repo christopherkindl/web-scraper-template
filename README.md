@@ -4,6 +4,8 @@ Template based on `BeautifulSoup4` (HTML scraper) to scrape ads/listings from se
 
 ![alt text](https://github.com/christopherkindl/web-scraper-template/blob/main/00_images/framework.png)
 
+Whenever I am confronted with a scraping task of this nature, I approach it by the following steps:
+
 **1. How to get one data point for one feature?**  
 (e.g. get the price tag from the first ad)
 
